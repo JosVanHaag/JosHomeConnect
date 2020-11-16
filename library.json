@@ -1,0 +1,12 @@
+{
+    "id": "{90F88F86-9B27-751D-B80B-F4A89A737DBD}",
+    "name": "JosIPS",
+    "author": "Thomas Stein",
+    "url": "https://github.com/JosVanHaag/",
+    "compatibility": {
+        "version": "5.3"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}
