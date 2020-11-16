@@ -3,9 +3,6 @@
     "name": "JosIPS",
     "author": "Thomas Stein",
     "url": "https://github.com/JosVanHaag/",
-    "compatibility": {
-        "version": "5.3"
-    },
     "version": "1.0",
     "build": 0,
     "date": 0

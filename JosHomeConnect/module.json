@@ -1,12 +1,15 @@
 {
     "id": "{223744FD-A2E6-8228-4F8C-26BFA1D63627}",
     "name": "JosHomeConnect",
-    "type": 3,
+    "type": 0,
     "vendor": "",
-    "aliases": [],
+    "aliases": 
+    [
+    	"JosHomeConnect"
+    ],
     "parentRequirements": [],
     "childRequirements": [],
     "implemented": [],
-    "prefix": "JOSHC",
-    "url": "https://github.com/JosVanHaag/JosHomeConnect"
+    "prefix": "JHC",
+    "url":"https://github.com/JosVanHaag/JosHomeConnect"
 }
